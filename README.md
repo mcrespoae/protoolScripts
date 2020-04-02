@@ -1,14 +1,12 @@
 ## Before you start
 *	Please, note that the audio scripts have been validated in **Pro Tools Ultimate 2018.12.0 and macOS 10.13.6 and macOS 10.14.6**
-*	Download the script you want to install and once it has been installed, you may delete the local copy.
 *	Note that you may be asked to allow Automator or Pro Tools or any other app you may use in the accessibility menu. To do so, open Settings, Security & Privacy and click on Privacy and then in Accessibility. Click the + button an add the Automator and Pro Tools app. You will have to allow more apps (Skype, Chrome, etc.)
 
-
 ## How to install the scripts
-*	Download the Automator file to your local drive.
-*	Double click on it.
+* Download the script you want to install fomr the *Automator* folder.
+*	Double click on it. Once it has been installed, you may delete the local copy.
 *	Open System Preferences and go to Keyboard. Then click on Shorcuts and Services. Into the General tab you will find the newly created Automator script. Add the shortcut and it will be done.
-
+* The *Script* folder contains only the raw script. You don't need to use it.
 
 ## Available scripts
 ### Analyze RX 6 Connect
